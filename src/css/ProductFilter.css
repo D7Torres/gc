@@ -1,0 +1,11 @@
+.gc-product-filter input {
+    width: 200px;
+    height: 26px;
+    padding: 5px 10px;
+    margin-bottom: 25px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid grey;
+    font-size: 16px;
+}

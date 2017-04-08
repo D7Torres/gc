@@ -1,0 +1,12 @@
+.gc-product .gc-selected {
+    font-weight: bold;
+}
+
+.gc-product .gc-description {
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.gc-product .gc-invisible {
+    display: none;
+}

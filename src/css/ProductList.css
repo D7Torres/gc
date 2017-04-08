@@ -1,0 +1,18 @@
+.gc-product-list {
+    max-width: 400px;
+}
+
+.gc-product-list ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.gc-product-list ul li {
+    margin-bottom: 15px;
+}
+
+.gc-product-list ul li a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}

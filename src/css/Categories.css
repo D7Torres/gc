@@ -1,0 +1,21 @@
+.gc-categories ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.gc-categories ul li {
+    display: inline-block;
+    margin-right: 25px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.gc-categories ul li a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.gc-categories ul li a.selected {
+    font-weight: bold;
+    text-decoration: underline;
+}
