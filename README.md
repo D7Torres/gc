@@ -4,7 +4,7 @@ by David Torres (david7torres@gmail.com)
 ## How to use it
 * First, **install the dependencies:** Go inside the root directory and run `npm install`.
 * To **start the application**, run `npm run start`. A browser window will open and you will see the application. If it does not open, just open it yourself and type `http://localhost:3000/`. This way of starting the app is intended for a development environment, for a production environment you have to build it and then deploy the build, but that will not be covered in this document.
-* You can **test the application** by running `npm run test`. However, I only wrote tests for one component (<Product />). There are two warnings I did not manage to solve (I did not find almost any information related, I believe it could be some recent dependency update). In any case, all the tests will run. I used [Jest](https://facebook.github.io/jest/) to build the suit of tests.
+* You can **test the application** by running `npm run test`. It will run only the tests related to files changed since the last commit, press `a` to run all the tests. However, I only wrote tests for one component (`<Product />`). There are two warnings I did not manage to solve (I did not find almost any information related, I believe it could be some recent dependency update). In any case, all the tests will run. I used [Jest](https://facebook.github.io/jest/) to build the suit of tests.
 
 
 ## Components
